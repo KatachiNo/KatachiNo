@@ -21,8 +21,9 @@
 
 
 ## :rocket:Contact me:
+:ru: :uk: |  
 ***Mail: katachino@inbox.ru*** &nbsp;&nbsp; ***Telegram:***&nbsp; [![Telegram Badge](https://img.shields.io/badge/-@wkatachino-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/wkatachino)
-### :ru: :uk:
+###
 
 <img src="https://media4.giphy.com/media/4T7zmTmX4crUDoP9Gs/giphy.gif?cid=ecf05e473tbqptfgeaaktutgwhda5ti48ilgfe2kiw7d64de&rid=giphy.gif&ct=g" height="480" />
 
