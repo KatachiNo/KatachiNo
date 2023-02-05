@@ -1,10 +1,11 @@
-## Hello, I'm Vladislav! :sun_with_face:
+# Hello, I'm Vladislav! :sun_with_face:
 
-### I live in Moscow, Russian Federation. I've been studying at NUST MISIS for 4 years with a degree Computer Science and Engineering. Over the years I've tried different technologies from .NET to Python. At this moment I'm focusing my attention on golang, docker, linux and CI/CD practices. Here you can find some of my projects which I decided to share.
+ I live in Moscow, Russian Federation. I've been studying at NUST MISIS for 4 years with a degree Computer Science and Engineering. Over the years I've tried different technologies from .NET to Python. At this moment I'm focusing my attention on golang, docker, linux and CI/CD practices. Here you can find some of my projects which I decided to share.
 :milky_way: :earth_africa:
----
 
-### :mag_right:Languages/Technologies that I'm interested in:
+
+
+## :mag_right:Languages/Technologies that I'm interested in:
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" title="golang" alt="golang"  width="80" height="80"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="docker"     alt="docker"  width="80" height="80"/>
@@ -17,12 +18,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="css"   alt="css"  width="80" height="80" />
 </div>
 
----
 
-### :rocket:Contact me:
-***Mail: katachino@inbox.ru*** &nbsp;&nbsp; ***Telegram:***&nbsp; [![Telegram Badge](https://img.shields.io/badge/-@wkatachino-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/wkatachino)  &nbsp;&nbsp; &nbsp;&nbsp; :ru: :uk:
 
----
+## :rocket:Contact me:
+***Mail: katachino@inbox.ru*** &nbsp;&nbsp; ***Telegram:***&nbsp; [![Telegram Badge](https://img.shields.io/badge/-@wkatachino-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/wkatachino)
+### :ru: :uk:
 
 <img src="https://media4.giphy.com/media/4T7zmTmX4crUDoP9Gs/giphy.gif?cid=ecf05e473tbqptfgeaaktutgwhda5ti48ilgfe2kiw7d64de&rid=giphy.gif&ct=g" height="480" />
 
